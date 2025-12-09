@@ -1,0 +1,14 @@
+From: ICICI Bank Alert <alerts@icicibank-secure.com>
+Subject: Important Notice: Account Access Restricted
+
+Dear Customer,
+
+We have temporarily restricted access to your account due to suspicious activity.  
+To restore full access, please confirm your account details immediately by clicking the link below:
+
+[Restore Access]
+
+If you do not complete verification within 12 hours, your account will be permanently blocked.  
+
+Thank you,  
+ICICI Bank Security Department
