@@ -1,7 +1,9 @@
 🔍 PHISHING EMAIL ANALYSIS REPORT
 
 Task: Task 2 – Analyze a Phishing Email
+
 Prepared by: Gowtham
+
 Date: 2025-12-09
 
 1. Sender’s Email Address
@@ -61,5 +63,6 @@ Together, these traits prove the email is fraudulent and designed to steal crede
 - Delete the email immediately after reporting.
 - Enable two-factor authentication (2FA) on your bank account for extra protection.
 - Educate others (family, colleagues) about spotting phishing traits, since attackers often target multiple people.
+
 
 
